@@ -41,7 +41,7 @@ Write a program using switch statement to find all the posiible roots of a quadr
 
 
 
-## 4. Finding letter grande.
+## 4. Finding letter grade.
 Write a program using switch to read the marks quiz1, quit2, quit3, quit4, test1, test2, and final exam of a student in one course maximum marks for each exam is given in the table 1 below . Calculate the total of all tghe marks and and print the appropriate grade to the student as given in the table 2.user must be use ceil() function to round up the value. Program calculates the internal CIE of students.
 
 
@@ -118,7 +118,38 @@ The main function should call these functions.
 
 
 ## 16. Matrix multiplication.
-Write program that reads two matrices A(m*n) and B(p*q) and compute the product A * B. Read 
+Write program that reads two matrices A(m*n) and B(p*q) and compute the product A * B. Read matrix A in row major order and matrix B in column major order print both the input matrices and resultant with suitable headings and in matrix format. program must check the compatibility of orders of the matrices for multiplication display appropriate message in case of incompatibility.
+
+
+
+## 17. Cassor cipher 
+Write a program to implement cassor cipher input a message and then encode it by replacing each charactor in the message by a charecter that is there position ahead in the english alphabet sequence, wrap back to 'a' if the chareactor is 'z' display the encoded message decode the message using the inverse procedure and disolay.
+
+
+
+## 18. Substring search.
+Write a program to read a line of text from the keyboard and print the number of occurence of a given substring using the built in function strstr().
+
+
+
+## 19. Finding topper of a batch.
+Write a c program in c that stores the details of N number of students given by user 
+The following are the information stored for each student 
+(i) Name
+(ii) USN
+(iii) Marks scored in # subjects
+Then find and display details of 
+(i) Aveagre marks of each student.
+(ii) Topper of the batch.
+
+
+
+## 20. Bitwise operation.
+Write a program that reads an unsigned integer and then perform the following operations using user defined function 
+(i) Check given input is even or odd
+(ii) to perform the swapping odf two number
+(both fuction should use bitwise operators only)
+
 
 
 
