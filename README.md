@@ -112,7 +112,7 @@ Write a program to the smallest and largest elements in an array using pointers 
 ## 15. Identity matrix
 Write a program to perform the following operations using user defined functions
 (i) Read M*N matrix
-(
+(ii) display the matrix
 
 
 
