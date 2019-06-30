@@ -28,5 +28,19 @@ Write a program to calculate the total sales of a shop. Given the unit price, qu
 
 
 ## 2. Sum of last two digits
-Write a progarm to extract and add the two least singnification digits of an integer using the following user dedined function 
+Write a progarm to extract and add the two least singnification digits of an integer using the following user dedined functions
+a) Function that obtains the unit place digit of a given number.
+b) Function that obtains the tenth place digit of a given number.
+c) Function that adds unit and tenth place digit of a given number 
+The main function should call these funcions.
+
+
+
+## 3. Roots of the quadratic equation
+Write a program using switch statement to find all the posiible roots of a quadration equation.display switable error message for invaild inputs. write a user defined funtion  fncalc discriminant to calculate the discriminant.
+
+
+
+## 
+
 
