@@ -22,12 +22,12 @@
 
 ---
 
-## 1. Sales of a shop
+## 1. Sales of a shop.
 Write a program to calculate the total sales of a shop. Given the unit price, quatity, discount rate, and sales tax rate of a particular product. The sales tax is 8.5% which should be specified using a definite constant . The output should should be displayed in proper form using appropriate formate specifier.
 
 
 
-## 2. Sum of last two digits
+## 2. Sum of last two digits.
 Write a progarm to extract and add the two least singnification digits of an integer using the following user dedined functions
 a) Function that obtains the unit place digit of a given number.
 b) Function that obtains the tenth place digit of a given number.
@@ -36,26 +36,50 @@ The main function should call these funcions.
 
 
 
-## 3. Roots of the quadratic equation
+## 3. Roots of the quadratic equation.
 Write a program using switch statement to find all the posiible roots of a quadration equation.display switable error message for invaild inputs. write a user defined funtion  fncalc discriminant to calculate the discriminant.
 
 
 
-## 4. Finding letter grande
+## 4. Finding letter grande.
 Write a program using switch to read the marks quiz1, quit2, quit3, quit4, test1, test2, and final exam of a student in one course maximum marks for each exam is given in the table 1 below . Calculate the total of all tghe marks and and print the appropriate grade to the student as given in the table 2.user must be use ceil() function to round up the value. Program calculates the internal CIE of students.
 
 
 
-## 5. Sine series
+## 5. Sine series.
 Write a program to find sine of an angle using the series sin(x)= x-xpower3/3!+xpower5 /5!----- for given N terms using the loop structure. Also print sin(x) using library function .
 
 
 
-## 6. Print calender of a month
+## 6. Print calender of a month.
 Write a program to display the calendar of a month whose starting day of the week and number of days in the month are given as input .(0,1,2,3,...6) respectively represent sunday, monday, ..... saturday respectively. Write a function print month which takes there values as parameters and prints the calendar of the month . perform input validation as well.
 
 
 
-## 7. Area under the curve y=log(x)
+## 7. Area under the curve y=log(x).
 Write a program to calculate the area under the curve y=log(x) within a given left and right limit. use trapezoidal approximate . function fn trapezoidal appromation. write a user defined function fntrapaera to calculate the area of a trapezoid.
 
+
+
+
+## 8. Calculating nCr.
+Write a recursive C function to fine the factorial of a number ,n!.Defined by fact(n)=1, if n=0. otherwise fact(n)=n* fact(n-1). using this fuction write a program to compute the binomial co efficient nCr perform input validation as well.
+
+
+
+## 9. Finding x power n.
+Write a program in C to find the value of 'x' raised to the power 'n' using recursion 
+Example: 1. x=5 n=3 x power n =125 
+         2. x=2 n=-3 x power n =0.125000
+
+
+
+## 10. Surface area and volume of cuboid
+Write a program that reats the length , breadth and height of a cuboid the program has to calculate the surface arear and volume of the cuboid using the function fncalvol surface area the results are then to be display by the main function.
+
+
+
+## 11. Set difference.
+Write a program to find the difference of two seta (set have distinct elements)
+         
+      
