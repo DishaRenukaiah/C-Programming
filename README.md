@@ -97,7 +97,7 @@ Write a program that arrays N integer numbers in ascending order using bubble so
 
 
 ## 13. Binary search.
-Write a program that reads N integer numbers in sorted order and perform a search operation on input by accepting a key element from the user applying binary search method. Report the result of search as *SUCCESS* or *FAILURE* as the case may be write defined functions for the following.
+Write a program that reads N integer numbers in sorted order and perform a search operation on input by accepting a key element from the user applying binary search method. Report the result of search as **SUCCESS** or *FAILURE* as the case may be write defined functions for the following.
 (i) Function to read N integer numbers
 (ii) Function to display N ineger numbers
 (iii) Function to search for a key elements using binary search.
