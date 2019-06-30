@@ -97,22 +97,28 @@ Write a program that arrays N integer numbers in ascending order using bubble so
 
 
 ## 13. Binary search.
-Write a program that reads N integer numbers in sorted order and perform a search operation on input by accepting a key element from the user applying binary search method. Report the result of search as SUCCESS or FAILURE as the case may be write defined functions for the following.
+Write a program that reads N integer numbers in sorted order and perform a search operation on input by accepting a key element from the user applying binary search method. Report the result of search as *SUCCESS* or *FAILURE* as the case may be write defined functions for the following.
 (i) Function to read N integer numbers
 (ii) Function to display N ineger numbers
 (iii) Function to search for a key elements using binary search.
 
 
 
-## 14. Swap smallest and largest elements in an array using pointers
+## 14. Swap smallest and largest elements in an array using pointers.
 Write a program to the smallest and largest elements in an array using pointers and then swap these elements and display the resultant array.
 
 
 
-## 15. Identity matrix
+## 15. Identity matrix.
 Write a program to perform the following operations using user defined functions
-(i) Read M*N matrix
-(ii) display the matrix
+(i) Read M * N matrix
+(ii) Display the matrix
+(iii) To check whether given matrix is identity or not identity matrix
+The main function should call these functions.
+
+
+## 16. Matrix multiplication.
+Write program that reads two matrices A(m*n) and B(p*q) and compute the product A * B. Read 
 
 
 
