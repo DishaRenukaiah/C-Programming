@@ -41,6 +41,21 @@ Write a program using switch statement to find all the posiible roots of a quadr
 
 
 
-## 
+## 4. Finding letter grande
+Write a program using switch to read the marks quiz1, quit2, quit3, quit4, test1, test2, and final exam of a student in one course maximum marks for each exam is given in the table 1 below . Calculate the total of all tghe marks and and print the appropriate grade to the student as given in the table 2.user must be use ceil() function to round up the value. Program calculates the internal CIE of students.
 
+
+
+## 5. Sine series
+Write a program to find sine of an angle using the series sin(x)= x-xpower3/3!+xpower5 /5!----- for given N terms using the loop structure. Also print sin(x) using library function .
+
+
+
+## 6. Print calender of a month
+Write a program to display the calendar of a month whose starting day of the week and number of days in the month are given as input .(0,1,2,3,...6) respectively represent sunday, monday, ..... saturday respectively. Write a function print month which takes there values as parameters and prints the calendar of the month . perform input validation as well.
+
+
+
+## 7. Area under the curve y=log(x)
+Write a program to calculate the area under the curve y=log(x) within a given left and right limit. use trapezoidal approximate . function fn trapezoidal appromation. write a user defined function fntrapaera to calculate the area of a trapezoid.
 
