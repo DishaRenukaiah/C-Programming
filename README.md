@@ -81,5 +81,41 @@ Write a program that reats the length , breadth and height of a cuboid the progr
 
 ## 11. Set difference.
 Write a program to find the difference of two seta (set have distinct elements)
+A-B= {x|x belongs to A and X does not belong B}
+Example: A = {1,3,5,7}
+         B = {4,5,7}
+         A-B ={1,3}
          
+         
+        
+## 12. Bubble sort
+Write a program that arrays N integer numbers in ascending order using bubble sort technique . write uses defined functions for the following.
+(i) Function to generate N random numbers in the range 0 to 999 and store  it in an array.
+(ii) Function to set N integer numbers in ascending order using bubble sort.
+(iii) Function to display N integers.
+
+
+
+## 13. Binary search.
+Write a program that reads N integer numbers in sorted order and perform a search operation on input by accepting a key element from the user applying binary search method. Report the result of search as SUCCESS or FAILURE as the case may be write defined functions for the following.
+(i) Function to read N integer numbers
+(ii) Function to display N ineger numbers
+(iii) Function to search for a key elements using binary search.
+
+
+
+## 14. Swap smallest and largest elements in an array using pointers
+Write a program to the smallest and largest elements in an array using pointers and then swap these elements and display the resultant array.
+
+
+
+## 15. Identity matrix
+Write a program to perform the following operations using user defined functions
+(i) Read M*N matrix
+(
+
+
+
+
+
       
