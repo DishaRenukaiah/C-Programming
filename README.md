@@ -7,7 +7,7 @@
 6. Print calender of a month
 7. Area under the curve y=log(x)
 8. calculating nCr
-9. Finding x power n 
+9. Finding x^n
 10. Surface area and volume of cuboid 
 11. set difference 
 12. Bubble sort 
@@ -20,8 +20,13 @@
 19. Finding topper of a batch 
 20. Bitwise operations
 
+---
 
-1. Sales of a shop :
+## 1. Sales of a shop
 Write a program to calculate the total sales of a shop. Given the unit price, quatity, discount rate, and sales tax rate of a particular product. The sales tax is 8.5% which should be specified using a definite constant . The output should should be displayed in proper form using appropriate formate specifier.
 
-2. Write a progarm to extract and add the two least singnification digits of an integer using the following user dedined function 
+
+
+## 2. Sum of last two digits
+Write a progarm to extract and add the two least singnification digits of an integer using the following user dedined function 
+
