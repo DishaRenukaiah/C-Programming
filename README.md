@@ -41,8 +41,8 @@ Write a program using ``` switch ``` statement to find all the possible roots of
 
 
 ## 4. Finding letter grade.
-### 1. Write a program using a ``` switch ``` to read the marks quiz1, quit2, quit3, quit4, test1, test2, and final exam of a student in one-course maximum marks for each exam is given in table 1 below. Calculate the total of all the marks and print the appropriate grade to the student as given in the table 
-### 2. User must use ``` ceil() ``` function to round up the value. The program calculates the internal CIE of students.
+1. Write a program using a ``` switch ``` to read the marks quiz1, quit2, quit3, quit4, test1, test2, and final exam of a student in one-course maximum marks for each exam is given in table 1 below. Calculate the total of all the marks and print the appropriate grade to the student as given in the table 
+2. User must use ``` ceil() ``` function to round up the value. The program calculates the internal CIE of students.
 
 
 
@@ -70,9 +70,10 @@ Write a recursive C function to fine the factorial of a number, n!.  Defined by`
 ## 9. Finding x power n.
 Write a program in C to find the value of ``` 'x' ```  raised to the power ``` 'n' ``` using recursion 
 Example: 
-#### 1. x=5 n=3 x power n =125 
-#### 2. x=2 n=-3 x power n =0.125000
-
+```
+1. x=5 n=3 x power n =125 
+2. x=2 n=-3 x power n =0.125000
+```
 
 
 ## 10. Surface area and volume of the cuboid
